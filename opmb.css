@@ -4,5 +4,5 @@ body {
         font-family: 'Lato', sans-serif;
     }
 
-nav a { margin-right: 2em;}
+nav a { display:inline-block;  margin-right: 2em; padding:1em 0.5em;}
 
